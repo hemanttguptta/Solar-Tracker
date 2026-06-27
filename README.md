@@ -28,7 +28,3 @@ Available in this repository.
 ## Project Report
 
 The complete project report is included.
-
-- Ishwinder Singh
-- Janvi Patel
-- Jasleen Jassal
